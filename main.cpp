@@ -7,7 +7,7 @@ using namespace std;
 int main() {
   
   
-  cyllinderType c2(20,4);
+  cyllinderType c2(10,10);
   
   c2.print();
   cout << "\nSurface Area = " << c2.area();
